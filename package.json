@@ -20,5 +20,8 @@
   "homepage": "https://github.com/yoooooori/Unify#readme",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
   }
 }
